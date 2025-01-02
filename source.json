@@ -1,0 +1,41 @@
+{
+  "name": "gmr repo",
+  "identifier": "gmr.ipa.repo",
+  "iconURL": "https://raw.githubusercontent.com/gamerlivgamer/ipa-repo/refs/heads/main/resources/icons/profile%20photo%20edit.png",
+  "website": "https://github.com/gamerlivgamer/ipa-repo/tree/main",
+  "subtitle": "my repo",
+  "description": "gamer_liv_gamer",
+  "tintColor": "4d9fb3",
+  "featuredApps": [
+    "dummyapp",
+    "com.gliddd4.realmzer.mysign",
+    "com.spotify.client",
+    "com.kdt.sparsebox",
+    "com.kdt.livecontainer"
+  ],
+ {
+      "beta": true,
+      "name" : "Exploding Kittens 2",
+      "bundleIdentifier": "com.marmalade.explodingkittens",
+      "developerName" : "Exploding Kittens",
+      "subtitle": "free iap",
+      "description": "exploding kittens 2 with free iap",
+      "localizedDescription": "ignore this",
+      "iconURL": "https://raw.githubusercontent.com/gamerlivgamer/ipa-repo/refs/heads/main/resources/icons/profile%20photo%20edit.png",
+      "tintColor": "ignore this",
+      "category": "ignore this",
+      "version": "0.0.21",
+      "versionDate" : "2025-1-2",
+      "downloadURL": "https://www.dropbox.com/scl/fi/bmdwqah46145tvwtodimq/ExplodingKittens.ipa?rlkey=iex6zk351yw5z3atgv5n27at3&e=1&st=iopcqj8k&dl=1",
+      "size": "338388225",
+      "title": "Exploding Kittens 2",
+      "url": "app developer url",
+      "versions" : [
+        {
+          "version": "app version",
+          "date" : "2025-1-2",
+          "downloadURL": "https://www.dropbox.com/scl/fi/bmdwqah46145tvwtodimq/ExplodingKittens.ipa?rlkey=iex6zk351yw5z3atgv5n27at3&e=1&st=iopcqj8k&dl=1",
+          "338388225": app size as number
+        }
+      ]
+    },
